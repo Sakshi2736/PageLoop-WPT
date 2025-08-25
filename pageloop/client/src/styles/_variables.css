@@ -1,0 +1,16 @@
+/* Colors */
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --background-color: #f4f4f4;
+    --text-color: #333;
+    --footer-bg: #2c3e50;
+
+    /* Spacing */
+    --base-spacing: 16px;
+    --header-height: 60px;
+
+    /* Fonts */
+    --font-family: 'Arial', sans-serif;
+    --heading-font-family: 'Helvetica', sans-serif;
+}

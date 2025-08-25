@@ -1,0 +1,29 @@
+/* _global.css */
+
+body {
+    background-color: var(--background-color);
+    padding: var(--base-spacing);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--heading-font-family);
+    color: var(--text-color);
+}
+
+a {
+    color: var(--primary-color);
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--secondary-color);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 2rem 0;
+}
