@@ -1,7 +1,8 @@
 📖 PageLoop – Online Book Reading & Review System
 
 🚀 Project Overview
-PageLoop is a full-stack web application designed for book lovers to register, manage books, read reviews, and share feedback. The platform provides secure authentication, a clean user interface, and a smooth end-to-end experience for managing book data and user interactions.
+PageLoop is a full-stack web application designed for book lovers to register, manage books, read reviews, and share feedback. The platform provides secure authentication
+a clean user interface, and a smooth end-to-end experience for managing book data and user interactions.
 
 This project was developed as part of PG-DAC CDAC coursework to demonstrate full-stack development skills including frontend, backend, database, and authentication.
 
